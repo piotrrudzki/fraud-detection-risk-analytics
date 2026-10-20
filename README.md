@@ -1,5 +1,7 @@
 # Fraud Detection & Customer Risk Analytics
 
+**English** | [Polski](README.pl.md)
+
 Fraud analysis and a transparent, rule-based risk score built on **257,947 synthetic card transactions** (10,000 customers, 500 merchants, January–June 2026).
 The goal: catch as much fraud as possible while keeping **false positives** low, and be able to explain every alert.
 
